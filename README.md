@@ -7,3 +7,6 @@ The below visualization shows that almost 19000 product where sold without disco
 Customer recieved their product mostly in standard delivery time and less amount got in the same day.
 
 ![2](https://user-images.githubusercontent.com/29350894/166443144-b84c3773-208b-4f62-929c-49f5375e177d.png)
+
+The visualization shows the huge amount of profits comes from West region and from the office supplies.
+![1](https://user-images.githubusercontent.com/29350894/166449780-b415b1ad-cbdf-49bb-988d-b28288a40c51.png)
